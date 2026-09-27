@@ -1,7 +1,7 @@
 import os
 import socket
 from datetime import datetime
-
+st.image("logo.jpg")
 import pandas as pd
 import streamlit as st
 from sqlalchemy import create_engine, text
